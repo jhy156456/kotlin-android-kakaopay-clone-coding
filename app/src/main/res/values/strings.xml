@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlin-android-kakaopay-clone-coding</string>
+    <string name="tab_text_1">결제</string>
+    <string name="tab_text_2">멤버십</string>
+    <string name="tab_text_3">송금받기</string>
+</resources>
